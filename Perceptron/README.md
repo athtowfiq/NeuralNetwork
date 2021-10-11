@@ -1,0 +1,1 @@
+Implementing the Perceptron algorithm for finding the weights of a Linear Discriminant function ising raw code on Google Collab.
